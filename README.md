@@ -1,1 +1,3 @@
-# HLD-Token
+# Token Contracts
+The HLD token is an ERC20, Ethereum-based that provide token holders to participate in governance. Supporting a vote delegation process, HLD token-holders (and their delegates) can discuss, propose, and vote on any future changes to the Holdefi protocol. For instance, they can include new assets, or change asset-specific requirements on Holdefi.
+Governance decides to burning, revenue sharing, liquidity mining or other usage by voting on the proposals submitted.

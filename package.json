@@ -1,0 +1,21 @@
+{
+  "name": "Holdefi_Token_Contracts",
+  "version": "1.0.0",
+  "description": "Holdefi_Token_Contracts",
+  "repository": {
+    "private": true
+  },
+  "author": "HoldefiCo",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "bignumber.js": "^9.0.0",
+    "ethereumjs-abi": "^0.6.8",
+    "ethereumjs-util": "^7.0.8",
+    "ethers": "^5.0.29",
+    "truffle-security": "^1.7.3"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.6"
+  }
+}
